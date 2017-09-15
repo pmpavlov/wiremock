@@ -1,4 +1,3 @@
-# wiremock
 ## The image includes
 
 - `EXPOSE 8080 8081` : the wiremock http/https server port
